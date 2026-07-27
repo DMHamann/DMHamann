@@ -16,4 +16,5 @@ I write Python for research and simulation. So far I have been doing
 goodness-of-fit testing, empirical process theory, high-dimensional statistics, 
 but I'm also interested in AI safety, interpretability and alignment.
 
+Feel free to contact me: 
 david.hamann@posteo.de
