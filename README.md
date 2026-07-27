@@ -9,7 +9,7 @@ interpretability**.
   phenomena; this is where my interest in how humans (and by extension,
   learned agents) reason about incentives and reward comes from.
 **Master's in Mathematics**, focus on stochastics/statistics thesis on
-  **multivariate Kolmogorov-Smirnov goodness-of-fit tests**.
+  multivariate Kolmogorov-Smirnov goodness-of-fit tests.
 
 I write **Python** for research and simulation. So far I have been doing
 goodness-of-fit testing, empirical process theory, high-dimensional statistics, 
