@@ -1,13 +1,20 @@
-Hey, I'm David and I'm a mathematician with a focus on **stochastics, statistics, and statistical learning**, working at the intersection of probability theory and applied machine learning, with an interest in **AI safety and interpretability**.
- 
-I hold two Bachelor's degrees and a Master's:
- 
-- **Bachelor's in Mathematics** — thesis on MCMC methods (Metropolis-Hastings, Gibbs sampling, slice sampling) for inference in Hidden Markov Models.
-- **Bachelor's in Psychology** — agent-based modeling of behavioral phenomena; this is where my interest in how humans (and by extension, learned agents) reason about incentives and reward comes from.
-- **Master's in Mathematics**, focused on stochastics/statistics — thesis on multivariate Kolmogorov-Smirnov goodness-of-fit tests.
-I write **Python** for research and simulation. So far I've worked on goodness-of-fit testing, empirical process theory, and high-dimensional statistics, and I'm increasingly drawn toward AI safety, interpretability, and alignment.
- 
+# Hi, I'm David Hamann
+
+I am a Mathematician with a focus on **stochastics, statistics, and statistical
+learning**. In addition to my experience in probability theory, I have been doing 
+projects and courses in applied machine learning, with a growing focus on **AI safety**.
+
+## Background
+
+I hold a Bachelor's degree in **Mathematics**. My thesis was on Markov chain Monte-Carlo methods (Metropolis-Hastings, Gibbs sampling, slice sampling) for inference in Hidden Markov Models.
+I also hold a Bachelor's degree in **Psychology**. My thesis was on agent-based modeling of behavioral phenomena in the delay discounting paradigm.
+I am currently working on my Master's thesis in **Mathematics** with focus on stochastics/statistics. My thesis is on the 'Convergence of Supremum-Norm Test Statistics and Extensions of Omnibus Goodness-of-Fit Tests for Uniformity to Multivariate Scenarios and Composite Hypotheses'.
+
+I do most of my programming in Python. 
+Topics I have been working on in the last 12 months or are currently working on are:
+goodness-of-fit testing, empirical process theory, high-dimensional
+statistics, transformer architecture, TransformerLens, mechanistic interpretability and AI misalignment.
+
 Some of my projects are pinned below or in my public repositories.
- 
-Feel free to contact me if you have any questions: david.hamann@posteo.de
- 
+
+Feel free to reach out: david.hamann@posteo.de
