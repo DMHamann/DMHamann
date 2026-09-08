@@ -18,4 +18,4 @@ statistics, transformer architecture, TransformerLens, mechanistic interpretabil
 
 Some of my projects are pinned below; more are in my public repositories.
 
-Feel free to reach out: david.hamann@posteo.de(mailto:david.hamann@posteo.de).
+Feel free to reach out: [david.hamann@posteo.de](mailto:david.hamann@posteo.de).
